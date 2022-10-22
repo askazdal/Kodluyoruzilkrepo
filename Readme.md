@@ -7,7 +7,20 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-end eğitimimd
 ## Installation 
 
 ---------------------------------------------------------------------------------------
-`git clone https://github.com/askazdal/kodluyoruzilkrepo.git
+`git clone https://github.com/askazdal/kodluyoruzilkrepo.git`
 
 ---------------------------------------------------------------------------------------
+
+## Usage 
+
+**Linux için**
+
+```
+cd kodluyoruzilkrepo
+code
+
+```
+
+
+
 
